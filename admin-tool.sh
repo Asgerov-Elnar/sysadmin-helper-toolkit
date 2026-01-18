@@ -84,7 +84,7 @@ cleanup() {
 
 while true; do
   clear
-  echo -e "${GREEN}Linux Admin Toolkit${RESET}"
+  echo -e "${GREEN}===Linux Admin Toolkit===${RESET}"
   echo "1) System Info"
   echo "2) Service Status"
   echo "3) Disk Usage Check"
