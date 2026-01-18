@@ -10,7 +10,7 @@ A lightweight command-line toolkit for Linux system administrators.
 - Safe cleanup tasks
 
 ## Photos
-![Linux Admin Toolkit Menu] (screenshots/2026-01-18 21_28_19-root@DESKTOP-3NGT2OH_ _usr_sysadmin-helper-toolkit) 
+![Linux Admin Toolkit Menu] (screenshots/2026-01-18 21_28_19-root@DESKTOP-3NGT2OH_ _usr_sysadmin-helper-toolkit.png) 
 ## Requirements
 - Linux system
 - Bash
@@ -20,4 +20,5 @@ A lightweight command-line toolkit for Linux system administrators.
 ```bash
 chmod +x admin-tool.sh
 sudo ./admin-tool.sh
+
 
